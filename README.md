@@ -10,8 +10,9 @@ The main dataset utilized in this project is "Data Sale.csv," an open-source fil
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://wwww.microsoft.com)
-  1. For data collection
-  2. For data cleaning and organization
+  1. For data cleaning
+  2. For data organization
+  3. For data analysis
   
  - SOL
    1. For data manipulation
@@ -23,6 +24,28 @@ The main dataset utilized in this project is "Data Sale.csv," an open-source fil
   - GitHub
     1. For portfolio building
 
+### Data Cleaning
+This involves the following action
+1. Correcting errors
+2. Removing duplicates
+3. Handling missing variables
+
+### Data Organization
+This involves the following action
+1. Structuring data into tables
+  - semi-structured data
+  - unstructured data
+  - structured data
+2. Sorting it by relevant criteria
+
+### Data Analysis
+This involves examining and interpreting data to uncover insights and patterns. Key techniques include:
+1. Formulas and Functions: Using built-in functions like SUM, AVERAGE, VLOOKUP, and IF to perform calculations and analyze data.
+   
+3. Pivot Tables: Summarizing and grouping large datasets to extract meaningful information.
+4. Charts and Graphs: Creating visual representations of data to highlight trends and comparisons.
+5. Conditional Formatting: Highlighting specific data points or patterns using colour coding.
+6. Data Filtering and Sorting: Organizing data to focus on specific subsets or criteria
 
 
 

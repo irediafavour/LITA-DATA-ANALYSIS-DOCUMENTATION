@@ -41,7 +41,7 @@ This involves the following action
 ### Data Analysis
 This involves examining and interpreting data to uncover insights and patterns. Key techniques include:
 1. Formulas and Functions: Using built-in functions like SUM, AVERAGE, VLOOKUP, and IF to perform calculations and analyze data.
-   
+   ![image](https://github.com/user-attachments/assets/22e7307b-8e9f-4c59-bc99-cb48d9b7d8ac)
 3. Pivot Tables: Summarizing and grouping large datasets to extract meaningful information.
 4. Charts and Graphs: Creating visual representations of data to highlight trends and comparisons.
 5. Conditional Formatting: Highlighting specific data points or patterns using colour coding.

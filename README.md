@@ -2,6 +2,12 @@
 I am Favour Iredia-Okpogie, a data analyst currently undergoing training with the Ladies In Tech Africa: Incubator Hub. I will be using this platform to share the knowledge and insights I have gained throughout my training.
 ### Project Topic:  Data Analytics Journey: From Excel Spreadsheets to Power BI Dashboards
 
+[Project Overview](#project-overview)
+
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
 ### Project Overview
 This project aims to show the complete data analysis process, starting with collecting and organizing data in Microsoft Excel, moving on to using SQL for data manipulation and queries, and ending with creating interactive dashboards in Power BI. The aim is to provide useful insights for better decision-making.
 

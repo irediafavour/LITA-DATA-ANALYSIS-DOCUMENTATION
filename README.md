@@ -46,6 +46,8 @@ This involves examining and interpreting data to uncover insights and patterns. 
    ![image](https://github.com/user-attachments/assets/51d28040-8a6e-46b6-b5a1-8fc4f66115e0)
 
 3. Charts and Graphs: Creating visual data representations to highlight trends and comparisons.
+   ![image](https://github.com/user-attachments/assets/a90e5ac5-fb17-4f55-a2bf-7461b21d2f4d)
+
 6. Conditional Formatting: Highlighting specific data points or patterns using colour coding.
 7. Data Filtering and Sorting: Organizing data to focus on specific subsets or criteria
 

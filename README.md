@@ -8,6 +8,13 @@ I am Favour Iredia-Okpogie, a data analyst currently undergoing training with th
 
 [Tools Used](#tools-used)
 
+[Data Cleaning](#data-cleaning)
+
+[Data Organization](#data-organization)
+
+[Data Analysis](#data-analysis)
+
+
 ### Project Overview
 This project aims to show the complete data analysis process, starting with collecting and organizing data in Microsoft Excel, moving on to using SQL for data manipulation and queries, and ending with creating interactive dashboards in Power BI. The aim is to provide useful insights for better decision-making.
 

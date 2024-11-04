@@ -55,6 +55,7 @@ This involves the following action
 This involves examining and interpreting data to uncover insights and patterns. Key techniques include:
 1. Formulas and Functions: Using built-in functions like SUM, AVERAGE, VLOOKUP, and IF to perform calculations and analyze data.
    ![image](https://github.com/user-attachments/assets/22e7307b-8e9f-4c59-bc99-cb48d9b7d8ac)
+
 2. Pivot Tables: Summarizing and grouping large datasets to extract meaningful information.
    ![image](https://github.com/user-attachments/assets/51d28040-8a6e-46b6-b5a1-8fc4f66115e0)
 
